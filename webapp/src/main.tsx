@@ -7,3 +7,7 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>
 )
+
+if (true) console.log('test')
+
+  //test
