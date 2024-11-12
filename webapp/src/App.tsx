@@ -1,7 +1,7 @@
-import { TrpcProvider } from "./lib/trpc";
-import { AllIdeasPage } from "./pages/AllIdeasPage";
+import { TrpcProvider } from './lib/trpc'
+import { AllIdeasPage } from './pages/AllIdeasPage'
 
-console.log("hello");
+console.log('Hello World!')
 
 export const App = () => {
   return (
@@ -10,4 +10,3 @@ export const App = () => {
     </TrpcProvider>
   )
 }
-
